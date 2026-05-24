@@ -1,4 +1,12 @@
-1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/isi_violations_count/0?versionId=88Bxz0hs1l.7wvHGg0PDag3OWRn78.wZ
+1779604580s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Fisi_violations_count%2F0&download=true
+1779604580s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Frp_violations%2F0&download=true
+1779604580s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/isi_violations_count/0?versionId=88Bxz0hs1l.7wvHGg0PDag3OWRn78.wZ
+1779604580s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/rp_violations/0?versionId=QHEHdoPg9KspKBG.WX67EHfL9W5W3S8a
+1779605092s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Fisi_violations_count%2F0&download=true
+1779605092s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Frp_violations%2F0&download=true
+1779605092s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/isi_violations_count/0?versionId=88Bxz0hs1l.7wvHGg0PDag3OWRn78.wZ
+1779605092s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/rp_violations/0?versionId=QHEHdoPg9KspKBG.WX67EHfL9W5W3S8a
 1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Fisi_violations_count%2F0&download=true
-1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/rp_violations/0?versionId=QHEHdoPg9KspKBG.WX67EHfL9W5W3S8a
 1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Frp_violations%2F0&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/isi_violations_count/0?versionId=88Bxz0hs1l.7wvHGg0PDag3OWRn78.wZ
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/rp_violations/0?versionId=QHEHdoPg9KspKBG.WX67EHfL9W5W3S8a

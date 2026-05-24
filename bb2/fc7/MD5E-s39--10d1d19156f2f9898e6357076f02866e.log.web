@@ -1,4 +1,12 @@
-1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_negative_peaks/0?versionId=iyb.Rqb90iumTGph4zdye7z7l.UVD.xT
+1779604580s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_negative_peaks%2F0&download=true
+1779604580s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_positive_peaks%2F0&download=true
+1779604580s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_negative_peaks/0?versionId=iyb.Rqb90iumTGph4zdye7z7l.UVD.xT
+1779604580s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_positive_peaks/0?versionId=msHABxapC.gCpJ.Tao6Sm_6Z_c2E6ftD
+1779605093s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_negative_peaks%2F0&download=true
+1779605093s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_positive_peaks%2F0&download=true
+1779605093s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_negative_peaks/0?versionId=iyb.Rqb90iumTGph4zdye7z7l.UVD.xT
+1779605093s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_positive_peaks/0?versionId=msHABxapC.gCpJ.Tao6Sm_6Z_c2E6ftD
 1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_negative_peaks%2F0&download=true
-1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_positive_peaks/0?versionId=msHABxapC.gCpJ.Tao6Sm_6Z_c2E6ftD
 1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_positive_peaks%2F0&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_negative_peaks/0?versionId=iyb.Rqb90iumTGph4zdye7z7l.UVD.xT
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_positive_peaks/0?versionId=msHABxapC.gCpJ.Tao6Sm_6Z_c2E6ftD
