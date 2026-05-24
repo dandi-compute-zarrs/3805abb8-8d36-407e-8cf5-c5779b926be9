@@ -1,0 +1,12 @@
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/index/.zarray?versionId=VX5zkEfdMQ8p4YaM5BSSTcvGlTRLQ47z
+1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Findex%2F.zarray&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/quality_metrics/metrics/num_spikes/.zarray?versionId=B9mpnpEkbeNvBsZgTDs27Gtqtp.QWSe1
+1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2Fnum_spikes%2F.zarray&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/index/.zarray?versionId=W9Pu7i_WdphnnKOfJRSsLVQ.vRxn_VGZ
+1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Findex%2F.zarray&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_negative_peaks/.zarray?versionId=f3CwjGutUA8rRW_P0Ddp894Ja3F71j4J
+1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_negative_peaks%2F.zarray&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/num_positive_peaks/.zarray?versionId=8P5wuynLll2mn2iCJZizSyjQ0C.yNANK
+1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fnum_positive_peaks%2F.zarray&download=true
+1779605371s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/extensions/template_metrics/metrics/spread/.zarray?versionId=XLfUUfnFQWmwpEXG16kd6KHWrYnUQ3dE
+1779605371s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2Fspread%2F.zarray&download=true
