@@ -1,0 +1,6 @@
+1779604582s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/sorting/properties/Amplitude/.zarray?versionId=t3ODV4ECv3aYPyJjCwE5Eqkbzu7siTyt
+1779604582s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=sorting%2Fproperties%2FAmplitude%2F.zarray&download=true
+1779604582s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/sorting/properties/ContamPct/.zarray?versionId=Zn4NMR9qBtn9Ci4D0Tp99qi.FZWTmKRi
+1779604582s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=sorting%2Fproperties%2FContamPct%2F.zarray&download=true
+1779604582s 1 https://dandiarchive.s3.amazonaws.com/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/sorting/properties/decoder_probability/.zarray?versionId=NRwADzAow43mRbB1SwdwmUq2L7DUAc5x
+1779604582s 1 https://api.dandiarchive.org/api/zarr/3805abb8-8d36-407e-8cf5-c5779b926be9/files?prefix=sorting%2Fproperties%2Fdecoder_probability%2F.zarray&download=true
